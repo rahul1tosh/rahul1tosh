@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahul1tosh
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Google Cloud Platform.
 
 
 <!---
